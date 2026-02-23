@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלה את הפיצרייה המובילה בעיר! איטליני פיצה מגישה פיצה איטלקית אמיתית עם מרכיבים טריים ומתכון מסורתי. הזמן עכשיו וטעם את ההבדל!
+
+### תפריט
+https://example.com/menu
+עיין בתפריט המלא של איטליני פיצה! מגוון עשיר של פיצות איטלקיות, תוספות מיוחדות ומנות נוספות. בחר את המועדפת עליך והזמן באתר בקלות!
+
+### אודות
+https://example.com/about
+למד על המסורת האיטלקית שלנו ואהבתנו לפיצה אמיתית. בפיצרייה איטליני פיצה אנחנו מכינים כל פיצה בידיים ובלב, עם מרכיבים איכותיים בלבד!
+
+### צור קשר
+https://example.com/contact
+רעב לפיצה איטלקית אמיתית? צור קשר עם איטליני פיצה עכשיו! הזמנות טלפוניות, משלוחים מהירים או איסוף עצמי. אנחנו כאן בשבילך!
+
+### Products
+https://example.com/products
+המוצרים שלנו - ITALINI PIZZA
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - ITALINI PIZZA
+
+### Category
+https://example.com/category/:slug
+מוצרים - ITALINI PIZZA
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
